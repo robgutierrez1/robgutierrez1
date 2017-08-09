@@ -3,6 +3,10 @@
     padding: 0;
 }
 #home {
+    height: 900px;
+    position: relative;
+    top: -55px;
+    width: 100%;
     background: url("https://www.motionbackgroundsforfree.com/wp-content/uploads/2012/04/Screen-shot-2012-04-24-at-12.04.08-PM1.png") no-repeat center bottom;
     background-size: cover;
     background-attachment: fixed;
