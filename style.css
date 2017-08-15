@@ -9,6 +9,10 @@
     color: white;
 }
 
+#home h3 {
+    font-style: italic;
+}
+
 .about h1 {
     color: rgb(40, 129, 151);
 }
