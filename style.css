@@ -46,3 +46,7 @@ footer li img {
 .nav.navbar-nav a:hover {
     color: rgb(40, 129, 151) !important;
 }
+
+.navbar-brand a:hover {
+    color: rgb(40, 129, 151) !important;
+}
