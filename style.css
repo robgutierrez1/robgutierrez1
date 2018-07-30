@@ -41,6 +41,10 @@
 #activities h2 {
     color: rgb(40, 129, 151);
 }
+
+#activities h3 {
+    color: rgb(40, 129, 151);
+}
 footer ul {
     list-style: none;
 }
