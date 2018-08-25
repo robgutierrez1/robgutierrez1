@@ -15,43 +15,43 @@
 }
 
 .about h1 {
-    color: rgb(40, 129, 151);
+    color: rgb(2, 40, 59);
 }
 
 #bio h1{
-    color: rgb(40, 129, 151);
+    color: rgb(2, 40, 59);
 }
 
 #blog h1 {
-    color: rgb(40, 129, 151);
+    color: rgb(2, 40, 59);
 }
 
 #contact h1 {
-    color: rgb(40, 129, 151);
+    color: rgb(2, 40, 59);
 }
 
 #work h1 {
-    color: rgb(40, 129, 151);
+    color: rgb(2, 40, 59);
 }
 
 #activities h1 {
-    color: rgb(40, 129, 151);
+    color: rgb(2, 40, 59);
 }
 
 #activities h2 {
-    color: rgb(40, 129, 151);
+    color: rgb(2, 40, 59);
 }
 
 #old h1 {
-    color: rgb(40, 129, 151);
+    color: rgb(2, 40, 59);
 }
 
 #old h2 {
-    color: rgb(40, 129, 151);
+    color: rgb(2, 40, 59);
 }
 
 #cd {
-    color: rgb(40, 129, 151);
+    color: rgb(2, 40, 59);
 }
 
 footer ul {
@@ -64,5 +64,5 @@ footer li img {
 }
 
 .nav.navbar-nav a:hover {
-    color: rgb(40, 129, 151) !important;
+    color: rgb(2, 40, 59) !important;
 }
