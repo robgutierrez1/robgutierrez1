@@ -42,9 +42,14 @@
     color: rgb(40, 129, 151);
 }
 
+#past_activities h1 {
+    color: rgb(40, 129, 151);
+}
+
 #cd {
     color: rgb(40, 129, 151);
 }
+
 footer ul {
     list-style: none;
 }
